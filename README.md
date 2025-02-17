@@ -1,5 +1,5 @@
 - 👋 Bonjour ! 
-- 👀 Passionné par les sciences, que ce soit les sciences du vivant ou les sciences techniques. Particulièrement intéressé par la gestion et l'analyse de données qui permettent de résoudre de nombreux problèmes.
+- 👀 Passionné par les sciences, que ce soit les sciences du vivant ou les sciences techniques. Particulièrement intéressé par la gestion et l'analyse de données
 - 🌱 Je prépare ma rentrée chez Diginamic, dans le parcours Data Engineer qui a débuté le 08/10/2024
 - 💞️ Je suis actuellement à la recherche d'une alternance pour cette formation
 - 📫 Vous pouvez me contacter via sofyan.elqotbi@gmail.com 
